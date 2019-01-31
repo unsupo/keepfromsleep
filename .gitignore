@@ -1,4 +1,4 @@
 .idea
 *.iml
-target
+target/*
 !target/keep-from-sleep-1.0-SNAPSHOT.jar
